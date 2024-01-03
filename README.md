@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Esmyxvatu
 - 👀 I’m interested in Minecraft, Coding
-- 🌱 I’m currently learning Python / JS / (trying) C
+- 🌱 I’m currently learning Python / JS / C++ / Go / Lua 
 - 💞️ I’m looking to collaborate on nothing .... I have no life
 - 📫 How to reach me : use discord ; but don't send friend requests (same name on discord)
 
